@@ -23,9 +23,6 @@
     <a href="https://codepen.io/guisato565">
       <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
     </a>
-    <a href="https://github.com/satoosan">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
     <a href="mailto:guilhermesskimura@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
