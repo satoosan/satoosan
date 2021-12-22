@@ -1,6 +1,6 @@
 <h1> ༼ つ ◕_◕ ༽つ Hello, this is my repository</h1>
 
-<h3>(☞ﾟヮﾟ)☞ And this is my <a href="https://guisato565.netlify.app/files/cv-gui.pdf" download="cv-gui.pdf">portfolio</a></h3>
+<h3>(☞ﾟヮﾟ)☞ And this is my <a href="https://guisato565.netlify.app/files/cv-gui.pdf" download="cv-gui.pdf">curriculum vitae</a></h3>
 
 ##
 
