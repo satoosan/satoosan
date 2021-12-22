@@ -32,4 +32,10 @@
 </div>
 
 <h3>Some of my hards skills</h3>
+  <div>
+    <a href="https://github.com/GuiSato565">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=satoosan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoosan&layout=compact&langs_count=7&theme=tokyonight">
+    </a>
+  </div>
 
