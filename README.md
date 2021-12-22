@@ -31,3 +31,6 @@
     </a>  
 </div>
 
+<h3>Some of my hards skills</h3>
+<img src="https://user-images.githubusercontent.com/96270321/147015622-e5b8ef4b-d842-47e4-9abb-0e36c7e07dc7.png" width="350">
+
