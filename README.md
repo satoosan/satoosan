@@ -15,8 +15,11 @@
 
 ##
 
+  
 <div>
   <h3>My contacts and email: 👇</h3>
+  
+  <img align="right" src="https://github.com/satoosan/satoosan/blob/output/github-contribution-grid-snake.svg" width="400em">
     <a href="https://codepen.io/guisato565">
       <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
     </a>
@@ -33,11 +36,9 @@
 
 <h3>Some of my hards skills</h3>
   <div>
-    <a href="https://github.com/GuiSato565">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=satoosan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+    <a href="https://github.com/satoosan">
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoosan&layout=compact&langs_count=7&theme=tokyonight">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=satoosan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
     </a>
   </div>
-  
-  ![Snake animation](https://github.com/satoosan/satoosan/blob/output/github-contribution-grid-snake.svg)
 
