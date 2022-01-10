@@ -11,6 +11,7 @@
   <li>I like to create responsive sites with Bootstrap.</li>
   <li>I love reading manga and watching anime. ¯\_(ツ)_/¯</li>
   <li>Currently my goal is to be able to specialize in the programming area, to be able to create my own applications/software.</li>
+  <li>Currently studying Python</li>
 </ul>
 
 ##
