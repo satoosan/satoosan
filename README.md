@@ -13,7 +13,7 @@
   <li>Currently my goal is to be able to specialize in the programming area, to be able to create my own applications/software.</li>
   <li>Currently studying Python</li>
   <br>
-  <div align="center">
+  <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
