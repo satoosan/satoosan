@@ -1,6 +1,6 @@
 <h1> ༼ つ ◕_◕ ༽つ Hello, this is my repository</h1>
 
-<h3>(☞ﾟヮﾟ)☞ And this is my <a href="">Portfolio</a></h3>
+<h3>(☞ﾟヮﾟ)☞ And this is my <a href="">Portfolio</a> | is not working</h3> 
 
 ##
 
