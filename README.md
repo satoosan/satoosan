@@ -6,7 +6,9 @@
 
 <h2> A little about myself </h2>
 <ul>
+  <a href="https://github.com/satoosan">
   <img align="right" alt="Gui"  height="150" width="150" src="https://cdn.discordapp.com/attachments/865484290648178708/876647292801794088/Webp.net-gifmaker.gif" />
+  </a>
   <li>I'm studying TADS, aka Technology in System Analysis and Development.</li>
   <li>I like to create responsive sites with Bootstrap.</li>
   <li>I love reading manga and watching anime. ¯\_(ツ)_/¯</li>
@@ -35,8 +37,9 @@
 
   
 <div>
-  
-  <img align="right" src="https://github.com/satoosan/satoosan/blob/output/github-contribution-grid-snake.svg" width="400em">
+  <a href="https://github.com/satoosan">
+    <img align="right" src="https://github.com/satoosan/satoosan/blob/output/github-contribution-grid-snake.svg" width="400em">
+  </a>
   <h3>My contacts and email: 👇</h3>
     <a href="https://codepen.io/guisato565">
       <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
