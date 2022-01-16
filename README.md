@@ -1,6 +1,7 @@
 <h1> ༼ つ ◕_◕ ༽つ Hello, this is my repository</h1>
 
-<h3>(☞ﾟヮﾟ)☞ And this is my <a href="">Portfolio</a> | is not working</h3> 
+<h3>(☞ﾟヮﾟ)☞ And this is my <a href="https://drive.google.com/uc?id=129wQjr-yeSdtC7TIAVHswI4Q58IEnJYX&export=download">Curriculum</a> | Direct Download
+</h3> 
 
 ##
 
@@ -47,9 +48,9 @@
     <a href="https://www.linkedin.com/in/guisato565/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>  
-<!--     <a href="mailto:guilhermesskimura@gmail.com">
+    <a href="https://linktr.ee/GuiSato565">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a> -->
+    </a>
 </div>
 
 ##
