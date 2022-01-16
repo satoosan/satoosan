@@ -1,6 +1,6 @@
 <h1> ༼ つ ◕_◕ ༽つ Hello, this is my repository</h1>
 
-<h3>(☞ﾟヮﾟ)☞ And this is my <a href="https://drive.google.com/uc?id=129wQjr-yeSdtC7TIAVHswI4Q58IEnJYX&export=download">Curriculum</a> | Direct Download
+<h3>(☞ﾟヮﾟ)☞ And this is my <a href="https://github.com/satoosan/satoosan/blob/main/cv-gui.pdf">Curriculum</a> | <a href="https://github.com/satoosan/satoosan/raw/main/cv-gui.pdf" Direct Download </a>
 </h3> 
 
 ##
