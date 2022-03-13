@@ -7,8 +7,7 @@
   <img src="https://cdn.discordapp.com/attachments/897304698468565022/952416980009381978/Cool_robot-amico.png" width="100em" align="right">
 </div>
 <br>
-<br>
-<br>
+<br><br>
 <div>
   <img src="https://cdn.discordapp.com/attachments/897304698468565022/952422495783354388/Hand_coding-cuate.png" width="250em" align="left">
   <h2>Technologies I use or have used...</h2>
@@ -17,4 +16,13 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" >
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" >
+  <br>
+  <img src="https://cdn.discordapp.com/attachments/897304698468565022/952436657624350750/Cool_robot-cuate_1.png" width="100em" align="right">
+  <h3>My contacts</h3>
+  <a href="https://www.linkedin.com/in/guisato565/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://linktr.ee/GuiSato565">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
