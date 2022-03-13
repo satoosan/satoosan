@@ -13,6 +13,6 @@
   <img src="https://cdn.discordapp.com/attachments/897304698468565022/952422495783354388/Hand_coding-cuate.png" width="250em" align="left">
   <h2>Most used Languages</h2>
   <br>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=satoosan&hide=issues&show_icons=true" >
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoosan&layout=compact">
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=satoosan&hide=issues&show_icons=true" >
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoosan&layout=compact">
 </div>
