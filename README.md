@@ -23,6 +23,5 @@
   <a href="https://linktr.ee/GuiSato565">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  
-  <img src="https://cdn.discordapp.com/attachments/897304698468565022/952436657624350750/Cool_robot-cuate_1.png" width="100em" align="right">
+  <img src="https://cdn.discordapp.com/attachments/897304698468565022/952436085647114260/Cool_robot-cuate.png" width="100em" align="right">
 </div>
