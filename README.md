@@ -1,5 +1,7 @@
 <div align="left">
+  <a href="https://github.com/satoosan">
   <img src="https://cdn.discordapp.com/attachments/897304698468565022/952407803836907620/readme.png" alt="Programação" width="250em" align="left">
+  </a>
   <h2>Hello, this is my repository!</h2> 
   <p>I'm studying <b>TADS</b>, aka Technology in System Analysis and Development.</p>
   <p>I'm enjoying programming with <b>Python</b>.</p>
