@@ -11,5 +11,5 @@
 <br>
 <div>
   <img src="https://cdn.discordapp.com/attachments/897304698468565022/952422495783354388/Hand_coding-cuate.png" width="250em" align="left">
-  <h2>< / > Some of the Languages I use or have used... < / > </h2>
+  <h2>Some of the Languages I use or have used...</h2>
 </div>
