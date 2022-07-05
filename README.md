@@ -2,8 +2,8 @@
   <a href="https://github.com/satoosan">
   <img src="https://cdn.discordapp.com/attachments/897304698468565022/952407803836907620/readme.png" alt="Programação" width="250em" align="left">
   </a>
-  <h2>Hello, this is my repository!</h2> 
-  <p>I'm studying <b>TADS</b>, aka Technology in System Analysis and Development.</p>
+  <h2>Hello, this is my profile!</h2> 
+  <p>I'm graduating in TADS <b>TADS</b>, aka Technology in System Analysis and Development.</p>
   <p>I'm enjoying programming with <b>Python</b>.</p>
   <p>Currently my goal is to be able to specialize in the programming area, to be able to create my own applications/software.</p>
   <p>༼ つ ◕_◕ ༽つ My <a href="https://gui-portfolio.netlify.app">Portfolio</a>.</p>
