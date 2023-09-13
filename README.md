@@ -5,14 +5,11 @@
   <p>Currently my goal is to be able to specialize in the programming area, to be able to create my own applications/software.</p>
   <p>༼ つ ◕_◕ ༽つ My <a href="https://gui-portfolio.netlify.app">Portfolio</a>.</p>
   <a href="https://github.com/satoosan/satoosan/raw/main/cv-gui.pdf">
-  <img src="https://cdn.discordapp.com/attachments/897304698468565022/952416980009381978/Cool_robot-amico.png" width="100em" align="right">
+  <img src="https://media.discordapp.net/attachments/1132901500868366338/1151313258305826908/Oops_404_Error_with_a_broken_robot-rafiki.png" width="200em" align="right">
   </a>
 </div>
 <br>
 <br><br>
-
-
-
 <!-- <div>
   <img src="https://cdn.discordapp.com/attachments/897304698468565022/952422495783354388/Hand_coding-cuate.png" width="250em" align="left">
   <h2>Technologies I use or have used...</h2>
