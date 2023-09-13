@@ -1,7 +1,4 @@
 <div align="left">
-  <a href="https://github.com/satoosan">
-  <img src="https://cdn.discordapp.com/attachments/897304698468565022/952407803836907620/readme.png" alt="Programação" width="250em" align="left">
-  </a>
   <h2>Hello, this is my profile!</h2> 
   <p>📑I graduated in ecnology in Systems Analysis and Development at Uninove.</p>
   <p>📚 I am currently a student at Jala University in Software Engineering.</p>
