@@ -9,6 +9,13 @@
 </div>
 <br>
 <br><br>
+
+<div align="left">
+  <a href="https://github.com/satoosan">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=satoosan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoosan&layout=compact&langs_count=7&theme=dark"/> 
+</div>
+
 <!-- <div>
   <img src="https://cdn.discordapp.com/attachments/897304698468565022/952422495783354388/Hand_coding-cuate.png" width="250em" align="left">
   <h2>Technologies I use or have used...</h2>
