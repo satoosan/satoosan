@@ -4,7 +4,7 @@
   <p>Currently my goal is to be able to specialize in the programming area, to be able to create my own applications/software.</p>
   <p>༼ つ ◕_◕ ༽つ My <a href="https://gui-portfolio.netlify.app">Portfolio</a>.</p>
   <div>
-    <p align="right">°°°°°°°°°°°°°°°👇°°°°°°°°°°°°°°°°°°</p>
+    <p align="right">°°°°°°°°°°°°°°°👇°°°°°°°°°°°°°°°°°</p>
     <a href="https://github.com/satoosan/satoosan/raw/main/cv-gui.pdf">
       <img src="https://media.discordapp.net/attachments/1132901500868366338/1151313258305826908/Oops_404_Error_with_a_broken_robot-rafiki.png" width="200em" align="right" alt="Click">
     </a>
