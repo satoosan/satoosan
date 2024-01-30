@@ -1,5 +1,5 @@
 <div align="left">
-  <h2>Hello, this is my profile!</h2> 
+  <h2>(☞ﾟヮﾟ)☞ Hello, this is my profile!</h2> 
   <p>📑I graduated in Tecnology in Systems Analysis and Development at Uninove.</p>
   <p>Currently my goal is to be able to specialize in the programming area, to be able to create my own applications/software.</p>
   <p>༼ つ ◕_◕ ༽つ My <a href="https://gui-portfolio.netlify.app">Portfolio</a>.</p>
