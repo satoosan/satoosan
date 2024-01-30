@@ -3,9 +3,12 @@
   <p>📑I graduated in Tecnology in Systems Analysis and Development at Uninove.</p>
   <p>Currently my goal is to be able to specialize in the programming area, to be able to create my own applications/software.</p>
   <p>༼ つ ◕_◕ ༽つ My <a href="https://gui-portfolio.netlify.app">Portfolio</a>.</p>
-  <a href="https://github.com/satoosan/satoosan/raw/main/cv-gui.pdf">
-    <img src="https://media.discordapp.net/attachments/1132901500868366338/1151313258305826908/Oops_404_Error_with_a_broken_robot-rafiki.png" width="200em" align="right">
-  </a>
+  <div>
+    <p align="right">°°°°°°°°°°°°°°°👇°°°°°°°°°°°°°°°</p>
+    <a href="https://github.com/satoosan/satoosan/raw/main/cv-gui.pdf">
+      <img src="https://media.discordapp.net/attachments/1132901500868366338/1151313258305826908/Oops_404_Error_with_a_broken_robot-rafiki.png" width="200em" align="right" alt="Click">
+    </a>
+  </div>
   <div align="left">
       <img height="120em" src="https://github-readme-stats.vercel.app/api?username=satoosan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
       <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoosan&layout=compact&langs_count=7&theme=dark"/> 
