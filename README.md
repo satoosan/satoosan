@@ -2,6 +2,7 @@
   <h2>(☞ﾟヮﾟ)☞ Hello, this is my profile!</h2> 
   <p>📑I graduated in Tecnology in Systems Analysis and Development at Uninove.</p>
   <p>Currently my goal is to be able to specialize in the programming area, to be able to create my own applications/software.</p>
+   <p>See more of my projects here → <a href="https://github.com/satoosan?tab=stars">🌟</a></p>
   <p>༼ つ ◕_◕ ༽つ My <a href="https://gui-portfolio.netlify.app">Portfolio</a>.</p>
 <!--   <div>
     <p align="right">°°°°°°°°°°°°°°°👇°°°°°°°°°°°°°°°°°</p>
