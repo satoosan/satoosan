@@ -9,7 +9,7 @@
 
 <div >
   <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="100px" align="center"/>
-  <span align="center"> Olá, meu nome é Guilherme Kimura.</span>
+  <span align="center"><strong> Olá, meu nome é Guilherme Kimura.<strong/></span>
 </div>
 
 <h1> </h1>
