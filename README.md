@@ -30,7 +30,7 @@
 
 
 > [!CAUTION]
-> Atualmente estou trabalhando com suporte técnico N1.
+> Atualmente estou trabalhando no suporte técnico N1.
 > 
 > E não se esqueça de ver alguns dos meus projetos abaixo 😉.
 
