@@ -33,6 +33,10 @@
 > Atualmente estou trabalhando no suporte técnico N1.
 > 
 > E não se esqueça de ver alguns dos meus projetos abaixo 😉.
+> 
+> [👶 Beginner Projects](https://github.com/stars/satoosan/lists/beginner-projects)
+> • [🧑 Intermediate Projects](https://github.com/stars/satoosan/lists/intermediate-projects)
+> • [👴 Advanced Projects](https://github.com/stars/satoosan/lists/advanced-projects)
 
 <a href="https://www.linkedin.com/in/guisato565/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <h1> </h1>
