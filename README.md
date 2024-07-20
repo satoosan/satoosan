@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <a href="https://github.com/satoosan/satoosan/blob/main/welcome.svg">
+  <a href="https://github.com/satoosan/satoosan/blob/main/cv-gui.pdf">
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
