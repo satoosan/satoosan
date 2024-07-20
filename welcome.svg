@@ -137,6 +137,10 @@
         animation: hi 3s linear -2s infinite;
       }
 
+      .text{
+        color: yellow;
+      }
+
       @keyframes border {
         0% { background-position: 0 0; }
         20% { background-position: 100% 0; }
@@ -214,7 +218,7 @@
             <li>System Developer &#38; Software Engineer in Training</li>
           </ul>
           <ul>
-            <li>at <a href="https://pragmaticpineapple.com">Paradoxical Pragmatist</a></li>
+            <li>I worked as a <span class="text">freelance web developer. </span></li>
           </ul>
         </section>
       </div>
