@@ -17,6 +17,8 @@
 
 > [!NOTE]
 > Sou formado em TADS, na Uninove. Já trabalhei como freelancers em criação e gestão de websites.
+> 
+> Atualmente estou cursando Engenharia de Software na UniCesumar.
 
 <img align="right" width="235px" src="https://cdn.discordapp.com/attachments/1255309094948962316/1255668957281648640/5ac0c93ae9205a4c3716f6e1b9473291.gif?ex=667df858&is=667ca6d8&hm=488de5f4cccf0165ed9e450c638ddb8b8b3614458494843d2e7b9178193b9208&"/>
 
