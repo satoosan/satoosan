@@ -14,12 +14,13 @@
   <img align="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <hr>
-<div align="right">
-  <img src="https://github.com/satoosan/satoosan/blob/main/assets/social.svg"  width="250px" align="right"/> 
+<div align="center">
+  <img src="https://github.com/satoosan/satoosan/blob/main/assets/social.svg"  width="250px" align=""/> 
   <p>Deixo aqui minhas redes sociais e meu currículo</p>
-  <a href="https://www.linkedin.com/in/guisato565/">Linkedin</a><br>
-  <a href="mailto:guilhermesskimura@gmail.com">E-mail</a>
+  <a href="https://www.linkedin.com/in/guisato565/"><img src="https://github.com/satoosan/satoosan/blob/main/assets/icon/linedin_icon.png"  width="50px" align=""/></a>
+  <a href="mailto:guilhermesskimura@gmail.com"><img src="https://github.com/satoosan/satoosan/blob/main/assets/icon/email_icon.png"  width="40px" align=""/></a>
 </div>
+
 
 
 <!-- <img src="https://github.com/satoosan/satoosan/blob/main/assets/main_welcome.svg" /> -->
