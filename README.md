@@ -4,7 +4,7 @@
 </div>
 <br>
 <div>
-  <img src="https://github.com/satoosan/satoosan/blob/main/assets/main_welcome.svg"  width="450px" align="left"/> 
+  <img src="https://github.com/satoosan/satoosan/blob/main/assets/main_welcome.svg"  width="550px" align="left"/> 
   <p align=""> → Sou formado em TADS, na Uninove.</p>
   <p> → Trabalhei como freelancers em criação e gestão de websites.</p>
   <p> → Atualmente estou graduando em Engenharia de Software na UniCesumar</p>
