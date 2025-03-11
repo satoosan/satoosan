@@ -10,10 +10,10 @@
   <p align=""> → Sou formado em TADS, na Uninove.</p>
   <p> → Trabalhei como freelancers em criação e gestão de websites.</p>
   <p> → Atualmente estou graduando em Engenharia de Software na UniCesumar</p>
-  <p>Possuo experiências em algumas tecnologias, tais como:</p>
+<!--   <p>Possuo experiências em algumas tecnologias, tais como:</p>
   <img align="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 </div>
 
  ##
