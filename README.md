@@ -18,8 +18,9 @@
 
  ##
 
-<h2>📌 Tecnologias e Conhecimentos</h2>
+
 <div align="center">
+  <h2>📌 Tecnologias e Conhecimentos</h2>
 <table>
   <tr>
     <th>Tecnologia</th>
