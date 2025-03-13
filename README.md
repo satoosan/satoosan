@@ -18,7 +18,81 @@
 
  ##
 
- <br>
+<h2>📌 Tecnologias e Conhecimentos</h2>
+<div align="center">
+<table>
+  <tr>
+    <th>Tecnologia</th>
+    <th>Frameworks/Bibliotecas</th>
+    <th>Banco de Dados</th>
+    <th>Conhecimento</th>
+  </tr>
+  <tr>
+    <td><strong>Python</strong></td>
+    <td>Flask, Django, FastAPI</td>
+    <td>MySQL, PostgreSQL, MongoDB</td>
+    <td>🟠 Intermediário</td>
+  </tr>
+  <tr>
+    <td><strong>C++</strong></td>
+    <td>Qt, SDL</td>
+    <td>MySQL, SQLite</td>
+    <td>🔴 Iniciante</td>
+  </tr>
+  <tr>
+    <td><strong>Java</strong></td>
+    <td>Spring Boot, JavaFX</td>
+    <td>MySQL, PostgreSQL</td>
+    <td>🟠 Intermediário</td>
+  </tr>
+  <tr>
+    <td><strong>C</strong></td>
+    <td>SDL, ncurses</td>
+    <td>SQLite</td>
+    <td>🟠 Intermediário</td>
+  </tr>
+  <tr>
+    <td><strong>C#</strong></td>
+    <td>.NET Core, ASP.NET, Unity</td>
+    <td>SQL Server, SQLite</td>
+    <td>🔴 Iniciante</td>
+  </tr>
+  <tr>
+    <td><strong>JavaScript</strong></td>
+    <td>React, Vue.js, Angular, Node.js</td>
+    <td>Firebase, MongoDB, PostgreSQL</td>
+    <td>🟠 Intermediário</td>
+  </tr>
+  <tr>
+    <td><strong>SQL</strong></td>
+    <td>-</td>
+    <td>MySQL, PostgreSQL, SQL Server, Oracle</td>
+    <td>🟠 Intermediário</td>
+  </tr>
+  <tr>
+    <td><strong>Go</strong></td>
+    <td>Gin, Gorilla WebSocket</td>
+    <td>PostgreSQL, MySQL</td>
+    <td>🔴 Iniciante</td>
+  </tr>
+  <tr>
+    <td><strong>Delphi/Object Pascal</strong></td>
+    <td>FireMonkey, VCL</td>
+    <td>MySQL, PostgreSQL</td>
+    <td>🔴 Iniciante</td>
+  </tr>
+  <tr>
+    <td><strong>Visual Basic</strong></td>
+    <td>.NET Framework, Windows Forms</td>
+    <td>SQL Server, SQLite</td>
+    <td>🔴 Iniciante</td>
+  </tr>
+</table>
+</div>
+<p>Usei como base o site <a href="https://www.tiobe.com/tiobe-index/"> Tiobe</a>, as 10 linguagens de programação mais populares.</p>
+
+##
+
 <div align="center">
   <img src="https://github.com/satoosan/satoosan/blob/main/assets/social.svg"  width="250px" align=""/> 
   <p>Deixo aqui minhas redes sociais</p>
