@@ -29,7 +29,7 @@
     <th>Conhecimento</th>
   </tr>
   <tr>
-    <td><strong>Python</strong></td>
+    <td><strong><a href="https://github.com/stars/satoosan/lists/python-projects">Python</a></strong></td>
     <td>Flask, Django, FastAPI</td>
     <td>MySQL, PostgreSQL, MongoDB</td>
     <td>🟠 Intermediário</td>
@@ -41,13 +41,13 @@
     <td>🔴 Iniciante</td>
   </tr>
   <tr>
-    <td><strong>Java</strong></td>
+    <td><strong><a href="https://github.com/stars/satoosan/lists/java-projects">Java</a></strong></td>
     <td>Spring Boot, JavaFX</td>
     <td>MySQL, PostgreSQL</td>
     <td>🟠 Intermediário</td>
   </tr>
   <tr>
-    <td><strong>C</strong></td>
+    <td><strong><a href="https://github.com/stars/satoosan/lists/c-projects">C</a></strong></td>
     <td>SDL, ncurses</td>
     <td>SQLite</td>
     <td>🔴 Iniciante</td>
@@ -59,7 +59,7 @@
     <td>🔴 Iniciante</td>
   </tr>
   <tr>
-    <td><strong>JavaScript</strong></td>
+    <td><strong><a href="https://github.com/stars/satoosan/lists/javascript-projects">JavaScript</a></strong></td>
     <td>React, Vue.js, Angular, Node.js</td>
     <td>Firebase, MongoDB, PostgreSQL</td>
     <td>🟠 Intermediário</td>
@@ -77,7 +77,7 @@
     <td>🔴 Iniciante</td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/stars/satoosan/lists/delphi-projects>">Delphi/Object Pascal</a></strong></td>
+    <td><strong><a href="https://github.com/stars/satoosan/lists/delphi-projects">Delphi/Object Pascal</a></strong></td>
     <td>FireMonkey, VCL</td>
     <td>MySQL, PostgreSQL</td>
     <td>🔴 Iniciante</td>
