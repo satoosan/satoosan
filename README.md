@@ -50,7 +50,7 @@
     <td><strong>C</strong></td>
     <td>SDL, ncurses</td>
     <td>SQLite</td>
-    <td>🟠 Intermediário</td>
+    <td>🔴 Iniciante</td>
   </tr>
   <tr>
     <td><strong>C#</strong></td>
