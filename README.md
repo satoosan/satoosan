@@ -35,7 +35,7 @@
     <td>🟠 Intermediário</td>
   </tr>
   <tr>
-    <td><strong>C++</strong></td>
+    <td><strong><a href="https://github.com/stars/satoosan/lists/c-plus-plus-projects">C++</a></strong></td>
     <td>Qt, SDL</td>
     <td>MySQL, SQLite</td>
     <td>🔴 Iniciante</td>
@@ -53,7 +53,7 @@
     <td>🔴 Iniciante</td>
   </tr>
   <tr>
-    <td><strong>C#</strong></td>
+    <td><strong><a href="https://github.com/stars/satoosan/lists/c-sharp-projects">C#</a></strong></td>
     <td>.NET Core, ASP.NET, Unity</td>
     <td>SQL Server, SQLite</td>
     <td>🔴 Iniciante</td>
@@ -65,13 +65,13 @@
     <td>🟠 Intermediário</td>
   </tr>
   <tr>
-    <td><strong>SQL</strong></td>
+    <td><strong><a href="https://github.com/stars/satoosan/lists/sql-projects">SQL</a></strong></td>
     <td>-</td>
     <td>MySQL, PostgreSQL, SQL Server, Oracle</td>
     <td>🟠 Intermediário</td>
   </tr>
   <tr>
-    <td><strong>Go</strong></td>
+    <td><strong><a href="https://github.com/stars/satoosan/lists/go-projects">Go</a></strong></td>
     <td>Gin, Gorilla WebSocket</td>
     <td>PostgreSQL, MySQL</td>
     <td>🔴 Iniciante</td>
@@ -83,7 +83,7 @@
     <td>🔴 Iniciante</td>
   </tr>
   <tr>
-    <td><strong>Visual Basic</strong></td>
+    <td><strong><a href="https://github.com/stars/satoosan/lists/visual-basics">Visual Basic</a></strong></td>
     <td>.NET Framework, Windows Forms</td>
     <td>SQL Server, SQLite</td>
     <td>🔴 Iniciante</td>
