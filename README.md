@@ -90,7 +90,8 @@
   </tr>
 </table>
 </div>
-<p>Usei como base o site <a href="https://www.tiobe.com/tiobe-index/"> Tiobe</a>, as 10 linguagens de programação mais populares.</p>
+<p>Usei como base o site <a href="https://www.tiobe.com/tiobe-index/"> Tiobe</a>, as 10 linguagens de programação mais populares. </p>
+<p>Cada LP possui uma lista, com alguns projetos, que estão pronto ou em desenvolvimento.</p>
 <!-- Classificação simplificada: Iniciante (🔴), Intermediário (🟠) e Avançado (🟢). -->
 
 ##
