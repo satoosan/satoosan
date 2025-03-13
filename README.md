@@ -77,7 +77,7 @@
     <td>🔴 Iniciante</td>
   </tr>
   <tr>
-    <td><strong>Delphi/Object Pascal</strong></td>
+    <td><strong><a href="https://github.com/stars/satoosan/lists/delphi-projects>">Delphi/Object Pascal</a></strong></td>
     <td>FireMonkey, VCL</td>
     <td>MySQL, PostgreSQL</td>
     <td>🔴 Iniciante</td>
