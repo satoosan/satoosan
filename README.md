@@ -18,7 +18,6 @@
 
  ##
 
-
 <div align="center">
   <h2>📌 Tecnologias e Conhecimentos</h2>
 <table>
@@ -28,71 +27,75 @@
     <th>Banco de Dados</th>
     <th>Conhecimento</th>
   </tr>
+  <!--
   <tr>
     <td><strong><a href="https://github.com/stars/satoosan/lists/python-projects">Python</a></strong></td>
     <td>Flask, Django, FastAPI</td>
     <td>MySQL, PostgreSQL, MongoDB</td>
     <td>🟠 Intermediário</td>
-  </tr>
-  <tr>
+  </tr>-->
+  <!--<tr>
     <td><strong><a href="https://github.com/stars/satoosan/lists/c-plus-plus-projects">C++</a></strong></td>
     <td>Qt, SDL</td>
     <td>MySQL, SQLite</td>
     <td>🔴 Iniciante</td>
-  </tr>
+  </tr>-->
   <tr>
     <td><strong><a href="https://github.com/stars/satoosan/lists/java-projects">Java</a></strong></td>
     <td>Spring Boot, JavaFX</td>
-    <td>MySQL, PostgreSQL</td>
+    <td>MySQL, PostgreSQL e MongoDB</td>
     <td>🟠 Intermediário</td>
   </tr>
+  <!--
   <tr>
     <td><strong><a href="https://github.com/stars/satoosan/lists/c-projects">C</a></strong></td>
     <td>SDL, ncurses</td>
     <td>SQLite</td>
     <td>🔴 Iniciante</td>
-  </tr>
-  <tr>
+  </tr>-->
+  <!--<tr>
     <td><strong><a href="https://github.com/stars/satoosan/lists/c-sharp-projects">C#</a></strong></td>
     <td>.NET Core, ASP.NET, Unity</td>
     <td>SQL Server, SQLite</td>
     <td>🔴 Iniciante</td>
-  </tr>
-  <tr>
+  </tr>-->
+  <!--<tr>
     <td><strong><a href="https://github.com/stars/satoosan/lists/javascript-projects">JavaScript</a></strong></td>
     <td>React, Vue.js, Angular, Node.js</td>
     <td>Firebase, MongoDB, PostgreSQL</td>
     <td>🟠 Intermediário</td>
-  </tr>
+  </tr>-->
   <tr>
     <td><strong><a href="https://github.com/stars/satoosan/lists/sql-projects">SQL</a></strong></td>
     <td>-</td>
     <td>MySQL, PostgreSQL, SQL Server, Oracle</td>
     <td>🟠 Intermediário</td>
   </tr>
+  <!--
   <tr>
     <td><strong><a href="https://github.com/stars/satoosan/lists/go-projects">Go</a></strong></td>
     <td>Gin, Gorilla WebSocket</td>
     <td>PostgreSQL, MySQL</td>
     <td>🔴 Iniciante</td>
-  </tr>
+  </tr>-->
+  <!--
   <tr>
     <td><strong><a href="https://github.com/stars/satoosan/lists/delphi-projects">Delphi/Object Pascal</a></strong></td>
     <td>FireMonkey, VCL</td>
     <td>MySQL, PostgreSQL</td>
     <td>🔴 Iniciante</td>
-  </tr>
+  </tr>-->
+  <!--
   <tr>
     <td><strong><a href="https://github.com/stars/satoosan/lists/visual-basics">Visual Basic</a></strong></td>
     <td>.NET Framework, Windows Forms</td>
     <td>SQL Server, SQLite</td>
     <td>🔴 Iniciante</td>
-  </tr>
+  </tr>-->
 </table>
 </div>
-<p>Usei como base o site <a href="https://www.tiobe.com/tiobe-index/"> Tiobe</a>, as 10 linguagens de programação mais populares. </p>
-<p>Cada LP possui uma lista, com alguns projetos, que estão pronto ou em desenvolvimento.</p>
 <!-- Classificação simplificada: Iniciante (🔴), Intermediário (🟠) e Avançado (🟢). -->
+
 
 ##
 
