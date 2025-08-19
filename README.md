@@ -8,7 +8,6 @@
   <img src="https://github.com/satoosan/satoosan/blob/main/assets/main_welcome.svg"  width="550px" align="left"/> 
   <p align=""> → Sou formado em TADS, na Uninove.</p>
   <p> → Trabalhei como freelancers em criação e gestão de websites.</p>
-  <p> → Atualmente estou graduando em Engenharia de Software na UniCesumar</p>
   <p>Acesse meu <a href="https://drive.google.com/file/d/14YTeb8WLUi0hM1m3l6_nzVDMUwDhHVZM/view?usp=sharing" download>CV</a> aqui!</p>
 <!--   <p>Possuo experiências em algumas tecnologias, tais como:</p>
   <img align="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
