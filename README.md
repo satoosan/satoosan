@@ -1,18 +1,20 @@
+<!--<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1407833711017332929/1407841831659634688/Apresentacao_pessoal_para_vaga_de_trabalho_corporativo_azul_5.png?ex=68a79261&is=68a640e1&hm=62a159f3ecaf9b6a964902ac54c4e26934dda1342a853d5ca8dec52bc59a811c&" width="250px" height="300px"/>
+
+  
+</div> -->
+
+
 <div align="center">
-  <img src="https://github.com/satoosan/satoosan/blob/main/assets/cats_welcome.svg" width="250px"/>
-  <p>𝙊𝙡𝙖́, 𝙢𝙚𝙪 𝙣𝙤𝙢𝙚 𝙚́ 𝙂𝙪𝙞𝙡𝙝𝙚𝙧𝙢𝙚 𝙆𝙞𝙢𝙪𝙧𝙖.</p>
-</div>
-
-
-<div>
-  <img src="https://github.com/satoosan/satoosan/blob/main/assets/main_welcome.svg"  width="550px" align="left"/> 
-  <p align=""> → Sou formado em TADS, na Uninove.</p>
-  <p> → Trabalhei como freelancers em criação e gestão de websites.</p><br>
-  <p>Acesse meu <a href="https://drive.google.com/file/d/14YTeb8WLUi0hM1m3l6_nzVDMUwDhHVZM/view?usp=sharing" download>CV</a> aqui!</p>
+  <img src="https://cdn.discordapp.com/attachments/1407833711017332929/1407844621169463316/Apresentacao_pessoal_para_vaga_de_trabalho_corporativo_azul_9.png?ex=68a794fa&is=68a6437a&hm=d6eb1d57991e91d26faae78aaec16554f350e5fbb70edc32b9725047afdf69b7&"  width="550px"/> <br>
+  <img src="https://cdn.discordapp.com/attachments/1407833711017332929/1407843337188282378/Apresentacao_pessoal_para_vaga_de_trabalho_corporativo_azul_7.png?ex=68a793c8&is=68a64248&hm=3d14d95be8ac4a52b6781d8729bf62b4718fe3a1992a23c13ed8b095982e4cb1&"  width="450px"/> <br>
+  <img src="https://cdn.discordapp.com/attachments/1407833711017332929/1407846008137846964/Apresentacao_pessoal_para_vaga_de_trabalho_corporativo_azul_10.png?ex=68a79644&is=68a644c4&hm=b64576ece2d6c5c373f0736f0d8f9f5b6033d8807cb292c7250ff78c26e7102c&"  width="450px"/> <br>
+  <img src="https://cdn.discordapp.com/attachments/1407833711017332929/1407846642882973867/Apresentacao_pessoal_para_vaga_de_trabalho_corporativo_azul_11.png?ex=68a796dc&is=68a6455c&hm=83c4c22e997584bba4934623dc840ce8aa07c627ef0855c29b9b18e3b504d1c2&"  width="450px"/> 
+  <p><a href="https://drive.google.com/file/d/1l0z4Z5NAkhFs1cluG71TFCGhhjjkS5Mn/view?usp=sharing">Clique aqui</a></p>
 <!--   <p>Possuo experiências em algumas tecnologias, tais como:</p>
   <img align="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> --><br><br>
+  <img align="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 </div>
 
 
@@ -89,7 +91,6 @@
 </table>
 </div>-->
 <!-- Classificação simplificada: Iniciante (🔴), Intermediário (🟠) e Avançado (🟢). -->
-
 
 ##
 
