@@ -97,12 +97,12 @@
   
 
 <div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1407833711017332929/1407848059756613815/Apresentacao_pessoal_para_vaga_de_trabalho_corporativo_azul_12.png?ex=68a7982d&is=68a646ad&hm=770382561556f4da3c957de53e0764824a4191e85f615f27282b94122fb6d643&"  width="400px" align="center"/> 
   <p>Deixo aqui minhas redes sociais</p>
-    <div align="center">
-      <a href="https://www.linkedin.com/in/guisato565/"><img src="https://github.com/satoosan/satoosan/blob/main/assets/icon/linedin_icon.png"  width="50px" align=""/></a>
-      <a href="mailto:guilhermesskimura@gmail.com"><img src="https://github.com/satoosan/satoosan/blob/main/assets/icon/email_icon.png"  width="40px" align=""/></a>
-    </div>
-  <img src="https://github.com/satoosan/satoosan/blob/main/assets/social.svg"  width="250px" align="center"/> 
+  <a href="https://www.linkedin.com/in/guisato565/"><img src="https://github.com/satoosan/satoosan/blob/main/assets/icon/linedin_icon.png"  width="50px" align=""/></a>
+  <a href="mailto:guilhermesskimura@gmail.com"><img src="https://github.com/satoosan/satoosan/blob/main/assets/icon/email_icon.png"  width="40px" align=""/></a>
+  
+
 </div>
 
 
