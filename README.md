@@ -4,8 +4,8 @@
 - 💻 I’m a freelancer in web development and digital networking
 - 🎓 I hold a degree in Systems Analysis and Development
 - 🗣️ I enjoy creating Alexa skills (👉 Check them out [here](https://github.com/stars/satoosan/lists/skills-alexa))
-- 📚 I’m graduating in Languages – Portuguese and English
-- 👻 I’m in the process of developing a horror game
+- 📚 I’m graduating in Languages – Portuguese and English.
+- 👻 I’m in the process of developing a horror game.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
