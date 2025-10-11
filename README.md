@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guilherme Kimura</h1>
+<h1 align="center">Hi 👋, I'm Guilherme K.</h1>
 <h3 align="center">A Freelancer in Web Development and Digital Networking</h2>
 
 - 💻 I’m a freelancer in web development and digital networking
