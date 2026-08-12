@@ -38,6 +38,7 @@ I'm a developer passionate about technology, web development, automation, and bu
 
   <a href="https://www.instagram.com/_satoweb/"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/></a>
   <a href="https://www.linkedin.com/in/guisato565/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
+  [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discord.com/users/killmura)
 
 ### 
 
