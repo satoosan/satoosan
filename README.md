@@ -34,21 +34,10 @@ I'm a developer passionate about technology, web development, automation, and bu
 
 ## 
 
-## 🚀 Projects & Interests
-
-### 🌐 Web Development
-I build web projects focused on practical solutions, automation, interfaces, and improving everyday workflows.
-
-
 ## 🌎 Connect with me
 
-**Freelancer**
-
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/_satoweb/)
-
-**Personal**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guisato565/)
+  <a href="https://www.instagram.com/_satoweb/"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/></a>
+  <a href="https://www.linkedin.com/in/guisato565/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
 
 ### 
 
