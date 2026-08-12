@@ -1,22 +1,55 @@
-<h1 align="center">Hi 👋, I'm Guilherme Kimura</h1>
-<h3 align="center">A Freelancer in Web Development and Digital Networking</h2>
+# Hi 👋, I'm Guilherme Kimura
 
-- 💻 I’m a freelancer in web development and digital networking
-- 🎓 I hold a degree in Systems Analysis and Development
-- 🗣️ I enjoy creating Alexa skills (👉 Check them out [here](https://github.com/stars/satoosan/lists/skills-alexa))
-- 📚 I’m graduating in Languages – Portuguese and English.
-- 👻 I’m in the process of developing a horror game.
+### 💻 Web Developer | Systems Analyst | Tech Enthusiast
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-Freelancer: <a href="https://www.instagram.com/_satoweb/">Instagram</a> 
-</p>
-<p align="left">
-Personal: <a href="https://www.linkedin.com/in/guisato565/">Linkedin</a> 
-</p>
+I'm a developer passionate about technology, web development, automation, and building projects that solve real-world problems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  My main: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><br>
-  Beginner to Intermediate Skills: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-</p>
+- 🎓 Degree in **Systems Analysis and Development**
+- 💻 Working with **Web Development and IT solutions**
+- 🌐 Experience with **digital networking and web technologies**
+- 🤖 I enjoy developing **Alexa Skills**
+- 📚 Currently pursuing a degree in **Languages – Portuguese and English**
+- 🎮 Currently developing my own **horror game**
+- 🚀 Always learning and experimenting with new technologies
+
+## 
+
+## 🛠️ Languages & Tools
+
+### Main Technologies
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+
+### Currently Learning / Improving
+
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
+
+## 
+
+## 🚀 Projects & Interests
+
+### 🌐 Web Development
+I build web projects focused on practical solutions, automation, interfaces, and improving everyday workflows.
+
+
+## 🌎 Connect with me
+
+**Freelancer**
+
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/_satoweb/)
+
+**Personal**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guisato565/)
+
+### 
+
+> *Always learning, always building.*
